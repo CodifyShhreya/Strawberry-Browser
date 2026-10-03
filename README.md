@@ -4,9 +4,9 @@
   <a href="https://discord.gg/ETPBdXU3kx"><img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-> **Notice:** The Dendrite SDK is not under active development anymore. However, the project will remain fully open source so that you and others can learn from it. Feel free to fork, study, or adapt this code for your own projects as you wish – reach out to us on Discord if you have questions! We love chatting about web AI agents. 🤖
+> **Notice:** The Strawberry SDK is not under active development anymore. However, the project will remain fully open source so that you and others can learn from it. Feel free to fork, study, or adapt this code for your own projects as you wish – reach out to us on Discord if you have questions! We love chatting about web AI agents. 🤖
 
-## What is Dendrite?
+## What is Strawberry browser ?
 
 #### Strawberry browser is a framework that makes it easy for web AI agents to browse the internet just like humans do. Use Dendrite to:
 
